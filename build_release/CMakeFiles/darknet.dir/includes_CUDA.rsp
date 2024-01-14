@@ -1,0 +1,1 @@
+-I/home/ubuntu/fishdetectdharsan/darknet/include -I/home/ubuntu/fishdetectdharsan/darknet/src -I/home/ubuntu/fishdetectdharsan/darknet/3rdparty/stb/include -I"/usr/local/cuda/targets/x86_64-linux/include" -isystem /usr/local/cuda/include -isystem /usr/include/opencv4

@@ -1,0 +1,10 @@
+/home/ubuntu/fishdetectdharsan/darknet/libdarknet.so
+/home/ubuntu/fishdetectdharsan/darknet/include/darknet/darknet.h
+/home/ubuntu/fishdetectdharsan/darknet/include/darknet/yolo_v2_class.hpp
+/home/ubuntu/fishdetectdharsan/darknet/uselib
+/home/ubuntu/fishdetectdharsan/darknet/darknet
+/home/ubuntu/fishdetectdharsan/darknet/kmeansiou
+/home/ubuntu/fishdetectdharsan/darknet/share/darknet/DarknetTargets.cmake
+/home/ubuntu/fishdetectdharsan/darknet/share/darknet/DarknetTargets-release.cmake
+/home/ubuntu/fishdetectdharsan/darknet/share/darknet/DarknetConfig.cmake
+/home/ubuntu/fishdetectdharsan/darknet/share/darknet/DarknetConfigVersion.cmake

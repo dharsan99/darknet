@@ -1,0 +1,12 @@
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/dark.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/uselib.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/darknet.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/kmeansiou.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/package.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/package_source.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/edit_cache.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/list_install_components.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/install.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/install/local.dir
+/home/ubuntu/fishdetectdharsan/darknet/build_release/CMakeFiles/install/strip.dir
